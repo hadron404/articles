@@ -223,4 +223,5 @@
 223. [基于容器编排的Dev/Ops流程](https://juejin.cn/post/6844903491551363085)
 224. [数据库慢查询的12个原因](https://juejin.cn/post/7103315065352552456)
 225. [保证线程安全的10个技巧](https://juejin.cn/post/7106854124561367077)
+226. [stubbing-mocking-service-virtualization-differences](https://www.infoq.com/articles/stubbing-mocking-service-virtualization-differences/)
 
