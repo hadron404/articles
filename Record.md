@@ -224,4 +224,7 @@
 224. [数据库慢查询的12个原因](https://juejin.cn/post/7103315065352552456)
 225. [保证线程安全的10个技巧](https://juejin.cn/post/7106854124561367077)
 226. [stubbing-mocking-service-virtualization-differences](https://www.infoq.com/articles/stubbing-mocking-service-virtualization-differences/)
+227. [JVM调优的一些常见处理方案](https://www.zhihu.com/question/427461208/answer/2537026920)
+228. [理解本真的REST架构风格](https://www.infoq.cn/article/understanding-restful-style/)
+229. [异步架构与反应式编程](https://juejin.cn/post/6914825057604747271)
 
