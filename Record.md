@@ -227,4 +227,7 @@
 227. [JVM调优的一些常见处理方案](https://www.zhihu.com/question/427461208/answer/2537026920)
 228. [理解本真的REST架构风格](https://www.infoq.cn/article/understanding-restful-style/)
 229. [异步架构与反应式编程](https://juejin.cn/post/6914825057604747271)
+230. [从200多篇顶会论文看预训练语言模型研究进展](https://zhuanlan.zhihu.com/p/437792297)
+231. [基于代码审查标记和预训练模型的代码审查意见自动生成方法框架](https://www.cas.cn/syky/202206/t20220621_4839021.shtml)
+232. [分布式事务最经典的7个解决方案](https://zhuanlan.zhihu.com/p/387487859)
 
