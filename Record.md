@@ -197,7 +197,7 @@
 197. [Java静态类](https://www.cnblogs.com/Alex--Yang/p/3386863.html, https://blog.csdn.net/weixin_40877388/article/details/114984621)
 198. [postman 接口数据关联](https://blog.csdn.net/Testfan_zhou/article/details/105138116?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
 199. [Golang](https://golang.google.cn/)
-200. [[left join,right join,inner join,full join之间的区别](https://www.cnblogs.com/lijingran/p/9001302.html)](https://www.cnblogs.com/lijingran/p/9001302.html)
+200. [left join,right join,inner join,full join之间的区别](https://www.cnblogs.com/lijingran/p/9001302.html)
 201. [Jackson和fastJson的技术选型讨论](https://www.zhihu.com/question/501897937/answer/2315053388)
 202. [JAVA反射中的getFields()方法和getDeclaredFields ()方法的区别]()
 203. [java8 list 多条件分组](https://blog.csdn.net/qq_38241225/article/details/99966972)
@@ -243,4 +243,7 @@
 243. [如何选择许可证（License）？](https://choosealicense.rustwiki.org/)
 244. [分布式系统的谬误](https:// architecturenotes. co/ fallacies- of- distributed- systems/)
 245. [接口幂等性设计 - 后端怎么防止重复提交](https:// architecturenotes. co/ fallacies- of- distributed- systems/)
+246. [服务端负载均衡和客户端负载均衡的区别](https://blog.csdn.net/qq_42039738/article/details/105515996)
+247. [K8s中的服务发现与负载均衡](https://www.infoq.cn/article/rEzx9X598W60svbli9aK)
+248. [Java 命名规范](https://cloud.tencent.com/developer/article/1896438)
 
