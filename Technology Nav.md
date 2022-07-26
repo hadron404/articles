@@ -9,6 +9,7 @@
 * [Spring Framework 中文文档](https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference/core.html)
 * [Baeldung - Spring Learning](https://www.baeldung.com/)
 * [Spring-Security 中文参考手册](https://www.springcloud.cc/spring-security-zhcn.html)
+* [Spring Cloud Kubernetes 中文文档](https://docs.gitcode.net/spring/guide/spring-cloud/spring-cloud-kubernetes.html#_1-why-do-you-need-spring-cloud-kubernetes)
 
 ## Database
 
