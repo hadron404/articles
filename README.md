@@ -246,4 +246,5 @@
 246. [服务端负载均衡和客户端负载均衡的区别](https://blog.csdn.net/qq_42039738/article/details/105515996)
 247. [K8s中的服务发现与负载均衡](https://www.infoq.cn/article/rEzx9X598W60svbli9aK)
 248. [Java 命名规范](https://cloud.tencent.com/developer/article/1896438)
+249. [小米Redis的K8s容器化部署实践](https://juejin.cn/post/6844904196924276743)
 
