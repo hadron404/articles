@@ -247,4 +247,5 @@
 247. [K8s中的服务发现与负载均衡](https://www.infoq.cn/article/rEzx9X598W60svbli9aK)
 248. [Java 命名规范](https://cloud.tencent.com/developer/article/1896438)
 249. [小米Redis的K8s容器化部署实践](https://juejin.cn/post/6844904196924276743)
+250.[Java 泛型](https://juejin.cn/post/7072703705811779620)
 
