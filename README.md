@@ -248,6 +248,9 @@
 248. [K8s中的服务发现与负载均衡](https://www.infoq.cn/article/rEzx9X598W60svbli9aK)
 249. [Java 命名规范](https://cloud.tencent.com/developer/article/1896438)
 250. [小米Redis的K8s容器化部署实践](https://juejin.cn/post/6844904196924276743)
-251.[Java 泛型](https://juejin.cn/post/7072703705811779620)
-252.[英语语法学习网站](https://www.grammar-monster.com/)
+251. [Java 泛型](https://juejin.cn/post/7072703705811779620)
+252. [英语语法学习网站](https://www.grammar-monster.com/)
+253. [Beauty terminal | oh-my-posh](https://ohmyposh.dev/)
+254. [Windows Terminal 美化教程](https://zhuanlan.zhihu.com/p/354603010)
+
 
