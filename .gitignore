@@ -1,0 +1,12 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+*.ini
+out
+gen
+*.pdf
+.obsidian
+面试公司
