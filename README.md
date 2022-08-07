@@ -243,7 +243,7 @@
 243. [转转统一权限系统的设计与实现](https://juejin.cn/post/7109812135856881694?share_token=a126defc-d2c5-4c77-890d-a2169dbc0060)
 244. [如何选择许可证（License）？](https://choosealicense.rustwiki.org/)
 245. [分布式系统的谬误](https://architecturenotes.co/fallacies-of-distributed-systems/)
-246. [接口幂等性设计 - 后端怎么防止重复提交](https:// architecturenotes. co/ fallacies- of- distributed- systems/)
+246. [接口幂等性设计 - 后端怎么防止重复提交](https://architecturenotes.co/fallacies-of-distributed-systems/)
 247. [服务端负载均衡和客户端负载均衡的区别](https://blog.csdn.net/qq_42039738/article/details/105515996)
 248. [K8s中的服务发现与负载均衡](https://www.infoq.cn/article/rEzx9X598W60svbli9aK)
 249. [Java 命名规范](https://cloud.tencent.com/developer/article/1896438)
@@ -253,6 +253,9 @@
 253. [Beauty terminal | oh-my-posh](https://ohmyposh.dev/)
 254. [Windows Terminal 美化教程](https://zhuanlan.zhihu.com/p/354603010)
 255. [JUnit 5 @Tag Annotation](https://howtodoinjava.com/junit5/junit-5-tag-annotation-example/)
+256. [mq 消息丢失、重复、积压问题](https://blog.csdn.net/gu131007416553/article/details/120934738)
+257. [可视化全链路追踪](https://zhuanlan.zhihu.com/p/546380245)
+
 
 
 
