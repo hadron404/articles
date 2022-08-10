@@ -112,7 +112,8 @@
 
 
 ## 博客
-* [Microservices - Chris Richardson ](https://microservices.io/)
+* [Microservices - Chris Richardson ](https://microservices.io/)、
+  作者提供了包括 Dockerfile 和测试用例在内的一整套微服务架构实现代码，是非常有价值的一套学习和参考资料。
 * [MartinFowler](https://martinfowler.com) 
 
 
