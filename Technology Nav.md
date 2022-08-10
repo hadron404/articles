@@ -120,3 +120,8 @@
 ## 开发者大会
 * [OreDev](https://oredev.org/)
 * [Slideshare](https://www.slideshare.net/)
+
+
+## 出版社
+*   [O'RELLY]
+*   [Maning]
