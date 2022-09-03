@@ -257,6 +257,7 @@
 257. [可视化全链路追踪](https://zhuanlan.zhihu.com/p/546380245)
 258. [译：微服务](https://www.cnblogs.com/liuning8023/p/4493156.html)
 259. [Microservices](https://martinfowler.com/articles/microservices.html)
+260. [基于微服务的企业应用架构设计范式](https://cloud.tencent.com/developer/article/1080791)
 
 
 
