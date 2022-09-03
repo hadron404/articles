@@ -255,6 +255,8 @@
 255. [JUnit 5 @Tag Annotation](https://howtodoinjava.com/junit5/junit-5-tag-annotation-example/)
 256. [mq 消息丢失、重复、积压问题](https://blog.csdn.net/gu131007416553/article/details/120934738)
 257. [可视化全链路追踪](https://zhuanlan.zhihu.com/p/546380245)
+258. [译：微服务](https://www.cnblogs.com/liuning8023/p/4493156.html)
+259. [Microservices](https://martinfowler.com/articles/microservices.html)
 
 
 
