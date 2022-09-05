@@ -259,6 +259,7 @@
 259. [Microservices](https://martinfowler.com/articles/microservices.html)
 260. [基于微服务的企业应用架构设计范式](https://cloud.tencent.com/developer/article/1080791)
 261. [分布式系统事务一致性解决方案](https://www.infoq.cn/article/solution-of-distributed-system-transaction-consistency/)
+262. [2022 微服务架构技术栈选型](https://juejin.cn/post/7131326158108360711)
 
 
 
