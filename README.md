@@ -304,8 +304,10 @@
 304. [RedSpider](http://concurrent.redspider.group/)
 305. [博客 - Javadoop](https://javadoop.com/)
 306. [分布式限流的主流方案](https://www.zhihu.com/question/483788010/answer/2671464488)
-
-
+307. [走出微服务误区：避免从单体到分布式单体](https://mp.weixin.qq.com/s/MoGGfmHfu72lmHwKGgHzKA)
+308. [13张图彻底搞懂分布式系统服务注册与发现原理](https://mp.weixin.qq.com/s/_Km4s1XnQzdleZfb2HUsQA)
+309. [基于 Kubernetes 的微服务项目设计与实现](https://mp.weixin.qq.com/s/PnWxpFBlf0HpI-4UaKU1sQ)
+310. [分布式事务解决方案常见误区与实用建议](https://mp.weixin.qq.com/s?__biz=MzkwOTIxNDQ3OA==&mid=2247532310&idx=1&sn=950ef4d84df4ed96b0c3918981c952c5&source=41#wechat_redirect)
 
 
 
